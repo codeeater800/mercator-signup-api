@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "mercator-signup-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "bf240872-eeb9-4df4-a859-c47d900dcce8",
+      "database_name": "mercator-waitlist-signup"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
